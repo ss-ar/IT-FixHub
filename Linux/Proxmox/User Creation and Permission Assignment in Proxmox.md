@@ -1,4 +1,3 @@
-Sure! Here’s a step-by-step guide to creating a new user in Proxmox and assigning permissions through a group, including the command to modify ACLs to assign group permissions. This documentation will be useful for your reference.
 
 ---
 
@@ -83,5 +82,3 @@ pveum acl list /
 You have now successfully created a new user, assigned that user to a group, and set group permissions in Proxmox. This structured approach will help you manage user permissions more effectively and enhance the security of your Proxmox environment.
 
 --- 
-
-Feel free to adjust any details in the documentation according to your specific needs! If you have any more requests or questions, let me know!

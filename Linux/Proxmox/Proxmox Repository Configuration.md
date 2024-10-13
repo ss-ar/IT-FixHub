@@ -1,4 +1,3 @@
-Got it! Here’s the updated documentation, including the addition of the `pve-no-subscription.list` file:
 
 ---
 
@@ -80,5 +79,3 @@ Reading package lists... Done
 By adding the `pve-no-subscription.list` file and commenting out the enterprise repository lines, the Proxmox VE is now properly configured to allow updates without encountering unauthorized access errors.
 
 ---
-
-Feel free to adjust any details or formatting as needed! If there's anything else you'd like to add or modify, just let me know!

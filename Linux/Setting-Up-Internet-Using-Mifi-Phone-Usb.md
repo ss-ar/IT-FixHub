@@ -1,4 +1,3 @@
-Let’s clarify **Step 1** in more detail, particularly focusing on how you set up the MiFi USB interface to provide temporary internet and made it the default interface for internet access.
 
 ---
 
@@ -97,5 +96,3 @@ Let’s clarify **Step 1** in more detail, particularly focusing on how you set 
 - **Installed NetworkManager** to simplify network management, particularly for the Wi-Fi setup later.
 
 ---
-
-This setup provided temporary internet access via the MiFi device while you configured NetworkManager to handle the Wi-Fi connection, which you eventually transitioned to for long-term use.

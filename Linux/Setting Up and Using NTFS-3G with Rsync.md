@@ -1,4 +1,3 @@
-Here’s a documented summary of the steps you took to install `ntfs-3g` and use `rsync` for copying files with progress tracking:
 
 ---
 
@@ -66,5 +65,3 @@ After the transfer completes, you can check the contents of the ext4 storage to 
 You have successfully installed `ntfs-3g` to manage NTFS partitions and used `rsync` to copy files from an NTFS partition to an ext4 partition while monitoring the progress of the operation.
 
 ---
-
-Feel free to modify any part of this documentation as needed!

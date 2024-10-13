@@ -1,4 +1,3 @@
-Here’s a complete summary of what you did, starting from when you connected your MiFi via USB to provide internet to your Proxmox server, up to the final configuration using Wi-Fi:
 
 ---
 
@@ -114,5 +113,3 @@ Here’s a complete summary of what you did, starting from when you connected yo
 - You no longer have to rely on the USB MiFi connection for internet access, and you can manage Proxmox through the web panel remotely.
 
 ---
-
-This guide can serve as a reference for setting up Proxmox networking with a Wi-Fi connection, especially in cases where the system was initially configured to use a USB MiFi or had manual network configurations in `/etc/network/interfaces`.

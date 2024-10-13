@@ -1,4 +1,3 @@
-Here's a step-by-step guide to preventing your Proxmox server from suspending when you close the laptop lid, documented with terminal commands for your reference:
 
 ---
 
@@ -76,5 +75,3 @@ You have successfully configured your Proxmox server to ignore the lid close act
 Feel free to refer to this documentation for future configurations or troubleshooting!
 
 --- 
-
-If you need any further modifications or additional information, just let me know!

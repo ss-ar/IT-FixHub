@@ -1,4 +1,3 @@
-To add a local user to your Proxmox server and allow SSH access without using the root account, follow these steps. This documentation provides commands to create a new user and configure SSH access.
 
 ---
 
@@ -100,4 +99,3 @@ Feel free to refer to this documentation for future reference or additional conf
 
 --- 
 
-If you have any questions or need further assistance, just let me know!

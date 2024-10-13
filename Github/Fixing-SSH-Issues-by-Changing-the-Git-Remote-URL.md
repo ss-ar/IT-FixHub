@@ -1,4 +1,3 @@
-Here's a detailed document outlining the process we followed to fix the issue by changing the Git remote URL:
 
 ---
 
@@ -85,5 +84,3 @@ You were experiencing an issue pushing to a GitHub repository via SSH, despite h
 By changing the remote URL from HTTPS to SSH, the authentication issue was resolved. You can now push and pull changes to the repository securely using your SSH key.
 
 ---
-
-This document outlines the process we followed to successfully fix the issue and ensure smooth SSH-based interaction with your GitHub repository. Let me know if you'd like to add anything else!
