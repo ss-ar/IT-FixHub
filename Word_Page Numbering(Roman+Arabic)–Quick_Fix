@@ -1,0 +1,30 @@
+# Word Page Numbering (Roman + Arabic) – Quick Fix
+
+## Section Setup
+1. Insert **Section Break – Next Page** after cover page  
+2. Insert another **Section Break – Next Page** before Chapter One  
+
+## Disable Linking
+For each new section:
+- Double-click footer
+- Go to Header & Footer Tools → Design
+- Turn off **Link to Previous**
+
+## Numbering
+### Section 1 — Cover
+- Design → Different First Page → No page number
+
+### Section 2 — Preliminary pages
+- Page Number → Format
+- Style: **i, ii, iii…**
+- Start at: **i**
+
+### Section 3 — Main body
+- Page Number → Format
+- Style: **1, 2, 3**
+- Start at: **1**
+
+This achieves:
+- Cover → none  
+- TOC & prelims → i, ii, iii  
+- Chapters → 1, 2, 3  
